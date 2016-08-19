@@ -13,4 +13,4 @@ Run Scrap Price Checker
 
 .. image:: _static\4.jpg
 
-And it's done!
+Data will automatically grabed from SAP and fill in the SAAR.
