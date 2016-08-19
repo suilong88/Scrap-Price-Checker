@@ -1,0 +1,10 @@
+Install Add-Ins
+===============
+
+Open Excel application, File-->Options-->Add-Ins-->Go, hit *Browse...* button to find file *Scrap Price Checker vx.x.x.x*
+
+.. image:: _static\1.png
+.. image:: _static/2.png
+
+
+First log on P12 in SAP system.
