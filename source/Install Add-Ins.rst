@@ -14,3 +14,5 @@ Select Add-Ins file
 .. image:: _static\2.jpg
 
 Then, you can find a menu under tab "Add-Ins".
+
+``Once you installed the Add-Ins, you don't need to install it again.``
