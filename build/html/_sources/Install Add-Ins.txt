@@ -6,11 +6,11 @@ Open Excel application, File-->Options-->Add-Ins-->Go, hit *Browse...* button to
 Excel Options
 -------------
 
-.. image:: _static\1.png
+.. image:: _static\1.jpg
 
 Select Add-Ins file
 -------------------
 
-.. image:: _static\2.png
+.. image:: _static\2.jpg
 
 Then, you can find a menu under tab "Add-Ins".
